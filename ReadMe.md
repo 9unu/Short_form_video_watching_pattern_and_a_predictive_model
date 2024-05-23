@@ -1,6 +1,7 @@
 # YouTube 시청 기록 분석 
 
 ## YouTube 시청 기록 수집
+![Poster](https://github.com/9unu/Short_form_video_watching_pattern_and_a_predictive_model/assets/124652096/a6ca7e17-e790-471e-8e2c-9dc12d48c2a6)
 
 1. **video_info_function.ipynb**
    - YouTube API를 사용하여 비디오 정보를 얻는 함수가 포함된 파일입니다.
